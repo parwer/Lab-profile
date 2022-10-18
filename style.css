@@ -1,0 +1,114 @@
+body {
+    font-family: 'Promtp', sans-serif;
+    margin: 0;
+}
+
+.box {
+    height: 750px;
+}
+
+.Profile #as1 {
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+
+.Profile section {
+    float: left;
+}
+.Profile section img {
+    margin: auto;
+}
+
+.Profile #as2 {
+    width: 30%;
+    float: right;
+}
+
+.clear::after {
+    content: "";
+    clear: both;
+    border-bottom: 1px solid;
+    padding-top: 10px;
+    display: block;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+}
+
+footer {
+    margin-top: 760px;
+    text-align: center;
+}
+
+.Profile{
+    z-index: 2;
+    background: #fff;
+    width: 100%;
+}
+
+.Experiences {
+    background: #fff;
+    width: 100%;
+}
+
+.Abilities {
+    margin: auto;
+    padding: 10px;
+    background: #fff;
+    width: 100%;
+}
+
+.Project {
+    width: 100%;
+    background: #fff;
+}
+
+.contact {
+    width: 100%;
+    background: #fff;
+}
+
+.rlt {
+    position: absolute;
+}
+
+.bk{
+    width: 30%;
+    margin: auto;
+}
+
+.bk h2 {
+    text-align: center;
+}
+
+tbody {
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#tl, #tr {
+    float: left;
+}
+
+section {
+    margin:auto;
+    text-align: center;
+    width: 40%;
+}
+
+li {
+    list-style-type: none;
+    border: 1px solid;
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+header {
+    margin: 0;
+}
